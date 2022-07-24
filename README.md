@@ -4,6 +4,7 @@ I feel that the current rating system in geometry dash is not focused enough on 
 
 ## So whats GDDB going to do
 GDDB won't magicly make the rating system better for creators but as a player if you want to play levels that are both fun to play and aren't an eyesore, you can see look at the [Github page of this repo](https://Dev7z.github.io/gddb/).
+In the future I'm planning on integrating this to the game itself for windows and possibly for jailbroken ios devices.
 
 
 ### How will the levels be rated in the GDDB system
@@ -24,6 +25,7 @@ The file will look like this
 }
 ```
 
+
 It contains (in order):
 
     The name of the level
@@ -38,7 +40,17 @@ It contains (in order):
         
         Most levels in this DB should have a relatively high score since I prefer to rate the good levels
         
-    Whether a level is fun to play or not (keeping the difficulty of the level in mind)
+    If the level has repetitive and/or annoying parts and how much they effect the level
+        
+        e
+        
+    Whether a level is fun to play or not (keeping the difficulty of the level in mind) (0-10)
     
-        Even though some levels are technically not repetitive
+        Even though some levels are technically not repetitive their gameplay might not be really fun this or they might have repetitive parts that are actually fun, this should be as subjective as possible
+        
+        A score of 0 means that the level is not fun to play at all (keeping the difficulty in mind)
+        
+        A score of 10 means that the gameplay is perfect for difficulty and is really fun
+        
+        If another factor significantly effecting the gameplay
     
