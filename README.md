@@ -25,12 +25,20 @@ The file will look like this
 ```
 
 It contains (in order):
+
     The name of the level
+    
     How visible the level is (0-10)
+    
         In terms of how visible the player is and how visible the upcoming obstacles are
+        
         A score of 0 means that almost nothing is visible in the level and playing the it's layout significantly reduces it's difficuly
+        
         A score of 10 means that everything from the player to all the upcoming obstacles are visible
+        
         Most levels in this DB should have a relatively high score since I prefer to rate the good levels
+        
     Whether a level is fun to play or not (keeping the difficulty of the level in mind)
+    
         Even though some levels are technically not repetitive
     
