@@ -24,8 +24,6 @@ The file will look like this
     "difficulty": "1"
 }
 ```
-
-\n
 This is the rubrik for creators and users that want to commit levels:
 
     The name of the level
