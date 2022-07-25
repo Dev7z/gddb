@@ -7,7 +7,7 @@ GDDB won't magicly make the rating system better for creators but as a player if
 In the future I'm planning on integrating this to the game itself for windows and possibly for jailbroken ios devices.
 
 
-### How will the levels be rated in the GDDB system
+# How will the levels be rated in the GDDB system
 Each level will be in a json file named after their ID, for example the level "ReTraY" will be "6508283.json"
 The file will look like this
 
