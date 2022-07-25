@@ -25,8 +25,8 @@ The file will look like this
 }
 ```
 
-
-It contains (in order):
+\n
+This is the rubrik for creators and users that want to commit levels:
 
     The name of the level
     
@@ -38,11 +38,15 @@ It contains (in order):
         
         A score of 10 means that everything from the player to all the upcoming obstacles are visible
         
-        Most levels in this DB should have a relatively high score since I prefer to rate the good levels
+        Most levels in this DB should have a relatively high score for this since I prefer to rate the good levels
         
     If the level has repetitive and/or annoying parts and how much they effect the level
         
-        e
+        Some levels might have a really repetitive gameplay but might have great decoration that got them an epic rating, since this DB also has gameplay in focus this is to filter those out
+        
+        A score of 0 means that the gameplay of the level is the same and never changes in the entire level
+        
+        A score of 10 means that there are no parts that get boring or annoying
         
     Whether a level is fun to play or not (keeping the difficulty of the level in mind) (0-10)
     
@@ -52,5 +56,10 @@ It contains (in order):
         
         A score of 10 means that the gameplay is perfect for difficulty and is really fun
         
-        If another factor significantly effecting the gameplay
+        If another factor is significantly effecting the gameplay then it should be rated accordingly
+            
+            For example if the visibility of the level is ruining the gameplay it should be rated with the effects of visibility since players will be playing with the bad visibility
     
+            For example if the gameplay is a bit bland the great sync with the music is making it really fun to play it should be rated with the effects of the great music sync
+           
+        Most levels in this DB should have a similar score for this to the repetitivenss and annpying parts, not always however.
