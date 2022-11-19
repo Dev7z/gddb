@@ -1,3 +1,4 @@
+Dead project
 # GDDB
 GDDB (Geometry dash Database), is a collection of featured levels but rated with better standards that focuses on balancing the gameplay and the look of the level.
 I feel that the current rating system in geometry dash is not focused enough on how fun playing the level is, in so many levels I spend more time trying to process whats a decoration and whats not, more time trying to see where I am than trying to actually play.
